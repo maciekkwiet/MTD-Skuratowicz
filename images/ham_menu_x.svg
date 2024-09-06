@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.525 24.957">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #a41111;
+      }
+    </style>
+  </defs>
+  <title>ham_menu_x</title>
+  <g id="Warstwa_1" data-name="Warstwa 1">
+    <rect class="cls-1" width="26.525" height="24.957"/>
+  </g>
+  <g id="Warstwa_1-2" data-name="Warstwa 1">
+    <g>
+      <rect class="cls-2" x="9.153" y="-1.986" width="4.502" height="27.124" transform="translate(-2.988 12.39) rotate(-45.118)"/>
+      <rect class="cls-2" x="-2.158" y="9.326" width="27.124" height="4.502" transform="translate(-2.988 12.39) rotate(-45.118)"/>
+    </g>
+  </g>
+</svg>

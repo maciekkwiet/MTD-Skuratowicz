@@ -1,0 +1,22 @@
+<svg id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.465 14.173">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a41111;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fefefe;
+      }
+    </style>
+  </defs>
+  <title>lokalizacja_czer</title>
+  <g>
+    <path class="cls-1" d="M7.111,15.591,2.992,8.48a4.837,4.837,0,0,1-.638-2.354,4.733,4.733,0,1,1,8.779,2.452Z" transform="translate(-2.354 -1.417)"/>
+    <path class="cls-2" d="M7.16,3.526a2.7,2.7,0,1,1,0,5.395,2.658,2.658,0,0,1-2.7-2.7A2.69,2.69,0,0,1,7.16,3.526Z" transform="translate(-2.354 -1.417)"/>
+  </g>
+</svg>

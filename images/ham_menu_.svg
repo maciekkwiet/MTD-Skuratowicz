@@ -1,0 +1,20 @@
+<svg id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.85 23.499">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #a41111;
+      }
+    </style>
+  </defs>
+  <title>ham_menu_</title>
+  <rect class="cls-1" width="36.85" height="23.499"/>
+  <g>
+    <rect class="cls-2" x="1.417" y="1.291" width="34.016" height="5.669"/>
+    <rect class="cls-2" x="1.417" y="8.887" width="34.016" height="5.669"/>
+    <rect class="cls-2" x="1.417" y="16.539" width="34.016" height="5.669"/>
+  </g>
+</svg>
