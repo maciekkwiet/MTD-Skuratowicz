@@ -2677,7 +2677,7 @@ print {
     #u721118_align_to_page {
         width: 1200px;
         left: -25px;
-        padding-top: 33px;
+        padding-top: 25px;
     }
 
     #ppu725998 {
@@ -4350,14 +4350,14 @@ print {
     }
 
     #u726002-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
     }
 
     #u726005-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -4365,7 +4365,7 @@ print {
     }
 
     #u726003-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -4376,12 +4376,12 @@ print {
     #u726005-4:hover,
     #u726003-4:hover {
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 
     #u726004-4 {
-        width: 33px;
+        width: 25px;
         min-height: 25px;
         font-size: 18px;
         line-height: 22px;
@@ -4390,7 +4390,7 @@ print {
 
     #u726004-4:hover {
         min-height: 25px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 

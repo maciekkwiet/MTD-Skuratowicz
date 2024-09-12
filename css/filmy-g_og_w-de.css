@@ -3279,14 +3279,14 @@ print {
     }
 
     #u428122-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
     }
 
     #u428119-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -3294,7 +3294,7 @@ print {
     }
 
     #u428121-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -3305,12 +3305,12 @@ print {
     #u428119-4:hover,
     #u428121-4.MuseLinkActive {
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 
     #u428120-4 {
-        width: 33px;
+        width: 25px;
         min-height: 25px;
         font-size: 18px;
         line-height: 22px;
@@ -3319,7 +3319,7 @@ print {
 
     #u428120-4:hover {
         min-height: 25px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 

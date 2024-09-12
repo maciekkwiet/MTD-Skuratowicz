@@ -3525,7 +3525,7 @@ print {
 
     #u113685-4 {
         z-index: 35;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -3548,7 +3548,7 @@ print {
 
     #u113682-4 {
         z-index: 39;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -3572,7 +3572,7 @@ print {
 
     #u113684-4 {
         z-index: 43;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -3601,13 +3601,13 @@ print {
         padding-top: 15px;
         padding-bottom: 10px;
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin: 0px -10000px 0px 0%;
     }
 
     #u113683-4 {
         z-index: 47;
-        width: 33px;
+        width: 25px;
         min-height: 25px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -3634,7 +3634,7 @@ print {
         padding-top: 15px;
         padding-bottom: 10px;
         min-height: 25px;
-        width: 33px;
+        width: 25px;
         margin: 0px -10000px 0px 0%;
     }
 
@@ -7542,7 +7542,7 @@ print {
 
     #u56294 {
         z-index: 33;
-        margin-top: 33px;
+        margin-top: 25px;
         position: relative;
         width: 75.12%;
         margin-left: 12.45%;

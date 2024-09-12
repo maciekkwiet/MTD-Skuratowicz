@@ -3313,7 +3313,7 @@ print {
 
     #u246365-4 {
         z-index: 37;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -3336,7 +3336,7 @@ print {
 
     #u246366-4 {
         z-index: 41;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -3360,7 +3360,7 @@ print {
 
     #u246367-4 {
         z-index: 45;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -3389,13 +3389,13 @@ print {
         padding-top: 15px;
         padding-bottom: 10px;
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin: 0px -10000px 0px 0%;
     }
 
     #u246364-4 {
         z-index: 49;
-        width: 33px;
+        width: 25px;
         min-height: 25px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -3422,7 +3422,7 @@ print {
         padding-top: 15px;
         padding-bottom: 10px;
         min-height: 25px;
-        width: 33px;
+        width: 25px;
         margin: 0px -10000px 0px 0%;
     }
 
@@ -4318,7 +4318,7 @@ print {
         background-color: #565855;
         background-color: rgba(57, 59, 55, 0.85);
         width: 100%;
-        padding-bottom: 33px;
+        padding-bottom: 25px;
         -pie-background: rgba(57, 59, 55, 0.85);
     }
 

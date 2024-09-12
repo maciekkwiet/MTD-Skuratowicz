@@ -1,3 +1,5 @@
+@import url('./footer.css');
+
 .version.index {
     color: #00000C;
     background-color: #8DD7D9;
@@ -2299,7 +2301,7 @@ print {
         font-style: normal;
     }
 
-    #u19195-4 {
+    #u19195-4, #footer-4 {
         width: 151px;
         min-height: 19px;
         border-width: 0px;
@@ -2316,7 +2318,8 @@ print {
     }
 
     #u19201.MuseMenuActive #u19204-4,
-    #u19192:hover #u19195-4 {
+    #u19192:hover #u19195-4,
+    #footer-a:hover #footer-4 {
         padding-top: 0px;
         padding-bottom: 0px;
         min-height: 19px;
@@ -2324,7 +2327,8 @@ print {
         margin: 0px -10000px 0px 0px;
     }
 
-    #u19192:hover #u19195-4 p {
+    #u19192:hover #u19195-4 p,
+    #footer-a:hover #footer-4 p {
         color: #F0F0F0;
         visibility: inherit;
         font-family: myriad-pro, sans-serif;
@@ -2349,6 +2353,7 @@ print {
     }
 
     #u19192.MuseMenuActive #u19195-4,
+    #footer-a.MuseMenuActive #footer-4,
     #u19152:hover #u19154-4 {
         padding-top: 0px;
         padding-bottom: 0px;
@@ -2403,6 +2408,7 @@ print {
     #u19170,
     #u19198,
     #u19191,
+    #footer-div,
     #u19149,
     #u19177,
     #u19205 {
@@ -2415,6 +2421,7 @@ print {
     #u19171,
     #u19201,
     #u19192,
+    #footer-a,
     #u19152,
     #u19178,
     #u19208 {
@@ -2473,6 +2480,7 @@ print {
     #u19171.MuseMenuActive #u19172-4 p,
     #u19201.MuseMenuActive #u19204-4 p,
     #u19192.MuseMenuActive #u19195-4 p,
+    #footer-a.MuseMenuActive #footer-4 p,
     #u19152.MuseMenuActive #u19154-4 p,
     #u19178.MuseMenuActive #u19179-4 p,
     #u19208.MuseMenuActive #u19211-4 p {
@@ -4626,7 +4634,7 @@ print {
 
     #u20065-4 {
         z-index: 319;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -4652,13 +4660,13 @@ print {
         padding-top: 15px;
         padding-bottom: 10px;
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin: 0px -10000px 0px 0%;
     }
 
     #u20066-4 {
         z-index: 323;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -4683,7 +4691,7 @@ print {
 
     #u20064-4 {
         z-index: 327;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -4712,13 +4720,13 @@ print {
         padding-top: 15px;
         padding-bottom: 10px;
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin: 1px -10000px 0px 0%;
     }
 
     #u20067-4 {
         z-index: 331;
-        width: 33px;
+        width: 25px;
         min-height: 25px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -4746,7 +4754,7 @@ print {
         padding-top: 15px;
         padding-bottom: 10px;
         min-height: 25px;
-        width: 33px;
+        width: 25px;
         margin: 1px -10000px 0px 0%;
     }
 
@@ -5034,7 +5042,7 @@ print {
         font-style: normal;
     }
 
-    #u19195-4 {
+    #u19195-4, #footer-4 {
         width: 171px;
         min-height: 22px;
         border-width: 0px;
@@ -5051,7 +5059,8 @@ print {
     }
 
     #u19201.MuseMenuActive #u19204-4,
-    #u19192:hover #u19195-4 {
+    #u19192:hover #u19195-4,
+    #footer-a:hover #footer-4 {
         padding-top: 0px;
         padding-bottom: 0px;
         min-height: 22px;
@@ -5059,7 +5068,8 @@ print {
         margin: 0px -10000px 0px 0px;
     }
 
-    #u19192:hover #u19195-4 p {
+    #u19192:hover #u19195-4,
+    #footer-a:hover #footer-4 p {
         color: #F0F0F0;
         visibility: inherit;
         font-family: myriad-pro, sans-serif;
@@ -5084,6 +5094,7 @@ print {
     }
 
     #u19192.MuseMenuActive #u19195-4,
+    #footer-a.MuseMenuActive #footer-4,
     #u19152:hover #u19154-4 {
         padding-top: 0px;
         padding-bottom: 0px;
@@ -5138,6 +5149,7 @@ print {
     #u19170,
     #u19198,
     #u19191,
+    #footer-div,
     #u19149,
     #u19177,
     #u19205 {
@@ -5150,6 +5162,7 @@ print {
     #u19171,
     #u19201,
     #u19192,
+    #footer-a,
     #u19152,
     #u19178,
     #u19208 {
@@ -5208,6 +5221,7 @@ print {
     #u19171.MuseMenuActive #u19172-4 p,
     #u19201.MuseMenuActive #u19204-4 p,
     #u19192.MuseMenuActive #u19195-4 p,
+    #footer-a.MuseMenuActive #footer-4 p,
     #u19152.MuseMenuActive #u19154-4 p,
     #u19178.MuseMenuActive #u19179-4 p,
     #u19208.MuseMenuActive #u19211-4 p {
@@ -7807,7 +7821,7 @@ print {
         font-style: normal;
     }
 
-    #u19195-4 {
+    #u19195-4, #footer-4 {
         width: 205px;
         min-height: 22px;
         border-width: 0px;
@@ -7824,7 +7838,8 @@ print {
     }
 
     #u19201.MuseMenuActive #u19204-4,
-    #u19192:hover #u19195-4 {
+    #u19192:hover #u19195-4,
+    #footer-a:hover #footer-4 {
         padding-top: 0px;
         padding-bottom: 0px;
         min-height: 22px;
@@ -7832,7 +7847,8 @@ print {
         margin: 0px -10000px 0px 0px;
     }
 
-    #u19192:hover #u19195-4 p {
+    #u19192:hover #u19195-4 p,
+    #footer-a.hover #footer-4 p {
         color: #F0F0F0;
         visibility: inherit;
         font-family: myriad-pro, sans-serif;
@@ -7857,6 +7873,7 @@ print {
     }
 
     #u19192.MuseMenuActive #u19195-4,
+    #footer-a.MuseMenuActive #footer-4,
     #u19152:hover #u19154-4 {
         padding-top: 0px;
         padding-bottom: 0px;
@@ -7911,6 +7928,7 @@ print {
     #u19170,
     #u19198,
     #u19191,
+    #footer-div,
     #u19149,
     #u19177,
     #u19205 {
@@ -7923,6 +7941,7 @@ print {
     #u19171,
     #u19201,
     #u19192,
+    #footer-a,
     #u19152,
     #u19178,
     #u19208 {
@@ -7981,6 +8000,7 @@ print {
     #u19171.MuseMenuActive #u19172-4 p,
     #u19201.MuseMenuActive #u19204-4 p,
     #u19192.MuseMenuActive #u19195-4 p,
+    #footer-a.MuseMenuActive #footer-4 p,
     #u19152.MuseMenuActive #u19154-4 p,
     #u19178.MuseMenuActive #u19179-4 p,
     #u19208.MuseMenuActive #u19211-4 p {
@@ -9977,7 +9997,7 @@ print {
         margin-left: auto;
         margin-right: auto;
         position: relative;
-        padding-top: 33px;
+        padding-top: 25px;
         padding-bottom: 181px;
     }
 
@@ -10541,7 +10561,7 @@ print {
         font-style: normal;
     }
 
-    #u19195-4 {
+    #u19195-4, #footer-4 {
         width: 152px;
         min-height: 17px;
         border-width: 0px;
@@ -10556,7 +10576,8 @@ print {
     }
 
     #u19201.MuseMenuActive #u19204-4,
-    #u19192:hover #u19195-4 {
+    #u19192:hover #u19195-4,
+    #footer-a:hover #footer-4 {
         padding-top: 0px;
         padding-bottom: 0px;
         min-height: 17px;
@@ -10564,7 +10585,8 @@ print {
         margin: 0px -10000px 0px 0px;
     }
 
-    #u19192:hover #u19195-4 p {
+    #u19192:hover #u19195-4 p,
+    #footer-a:hover #footer-4 p {
         color: #F0F0F0;
         visibility: inherit;
         font-family: myriad-pro, sans-serif;
@@ -10587,6 +10609,7 @@ print {
     }
 
     #u19192.MuseMenuActive #u19195-4,
+    #footer-a.MuseMenuActive #footer-4,
     #u19152:hover #u19154-4 {
         padding-top: 0px;
         padding-bottom: 0px;
@@ -10639,6 +10662,7 @@ print {
     #u19170,
     #u19198,
     #u19191,
+    #footer-div,
     #u19149,
     #u19177,
     #u19205 {
@@ -10651,6 +10675,7 @@ print {
     #u19171,
     #u19201,
     #u19192,
+    #footer-a,
     #u19152,
     #u19178,
     #u19208 {
@@ -10707,6 +10732,7 @@ print {
     #u19171.MuseMenuActive #u19172-4 p,
     #u19201.MuseMenuActive #u19204-4 p,
     #u19192.MuseMenuActive #u19195-4 p,
+    #footer-a.MuseMenuActive #footer-4 p,
     #u19152.MuseMenuActive #u19154-4 p,
     #u19178.MuseMenuActive #u19179-4 p,
     #u19208.MuseMenuActive #u19211-4 p {

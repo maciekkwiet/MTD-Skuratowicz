@@ -10288,7 +10288,7 @@ print {
 
     #u378230-4 {
         z-index: 759;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -10311,7 +10311,7 @@ print {
 
     #u378231-4 {
         z-index: 763;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -10335,7 +10335,7 @@ print {
 
     #u378232-4 {
         z-index: 767;
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -10364,13 +10364,13 @@ print {
         padding-top: 15px;
         padding-bottom: 10px;
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin: 0px -10000px 0px 0%;
     }
 
     #u378233-4 {
         z-index: 771;
-        width: 33px;
+        width: 25px;
         min-height: 25px;
         -webkit-transition-duration: 1s;
         -webkit-transition-delay: 0s;
@@ -10397,7 +10397,7 @@ print {
         padding-top: 15px;
         padding-bottom: 10px;
         min-height: 25px;
-        width: 33px;
+        width: 25px;
         margin: 0px -10000px 0px 0%;
     }
 
@@ -15649,7 +15649,7 @@ print {
         border-width: 0px;
         border-color: transparent;
         background-color: transparent;
-        margin-top: 33px;
+        margin-top: 25px;
         position: relative;
         margin-left: 50%;
         left: -102px;

@@ -3470,7 +3470,7 @@ print {
     }
 
     #u119631-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -3478,12 +3478,12 @@ print {
 
     #u119631-4.MuseLinkActive {
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 
     #u119628-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -3491,7 +3491,7 @@ print {
     }
 
     #u119630-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -3502,12 +3502,12 @@ print {
     #u119630-4:hover {
         margin-top: 0px;
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 
     #u119629-4 {
-        width: 33px;
+        width: 25px;
         min-height: 25px;
         font-size: 18px;
         line-height: 22px;
@@ -3516,7 +3516,7 @@ print {
 
     #u119629-4:hover {
         min-height: 25px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 
@@ -6260,7 +6260,7 @@ print {
 
     #u119627 {
         width: 224px;
-        margin-top: 33px;
+        margin-top: 25px;
         margin-left: 50%;
         left: -112px;
     }

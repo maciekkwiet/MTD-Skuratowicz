@@ -4281,7 +4281,7 @@ print {
     }
 
     #u265093-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -4289,12 +4289,12 @@ print {
 
     #u265093-4:hover {
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 
     #u265092-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -4302,7 +4302,7 @@ print {
     }
 
     #u265095-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -4313,12 +4313,12 @@ print {
     #u265095-4:hover {
         margin-top: 0px;
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 
     #u265094-4 {
-        width: 33px;
+        width: 25px;
         min-height: 25px;
         font-size: 18px;
         line-height: 22px;
@@ -4328,7 +4328,7 @@ print {
     #u265094-4:hover {
         margin-top: 0px;
         min-height: 25px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 
@@ -5978,7 +5978,7 @@ print {
 
     #u265091 {
         width: 220px;
-        margin-top: 33px;
+        margin-top: 25px;
         margin-left: 50%;
         left: -102px;
     }

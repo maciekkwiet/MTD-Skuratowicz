@@ -4381,7 +4381,7 @@ print {
 
     #u57946-4 {
         min-height: 68px;
-        margin-top: 33px;
+        margin-top: 25px;
         width: 16.85%;
         left: 80.42%;
     }
@@ -4698,14 +4698,14 @@ print {
     }
 
     #u247127-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
     }
 
     #u247126-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -4713,7 +4713,7 @@ print {
     }
 
     #u247129-4 {
-        width: 33px;
+        width: 25px;
         min-height: 24px;
         font-size: 18px;
         line-height: 22px;
@@ -4724,12 +4724,12 @@ print {
     #u247126-4:hover,
     #u247129-4:hover {
         min-height: 24px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 
     #u247128-4 {
-        width: 33px;
+        width: 25px;
         min-height: 25px;
         font-size: 18px;
         line-height: 22px;
@@ -4738,7 +4738,7 @@ print {
 
     #u247128-4.MuseLinkActive {
         min-height: 25px;
-        width: 33px;
+        width: 25px;
         margin-left: 0%;
     }
 
@@ -8053,7 +8053,7 @@ print {
     #u60171,
     #u60186 {
         width: 160px;
-        margin-top: 33px;
+        margin-top: 25px;
         margin-left: 50%;
         left: -80px;
     }
@@ -8177,7 +8177,7 @@ print {
     #u60177 {
         width: 160px;
         margin-right: -10000px;
-        margin-top: 33px;
+        margin-top: 25px;
         margin-left: 50%;
         left: -80px;
     }
