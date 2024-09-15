@@ -1,3 +1,6 @@
+@import url('./footer-en.css');
+@import url('./warehause-header-en.css');
+
 .version.about_us_en {
     color: #000002;
     background-color: #9F7F53;
@@ -910,6 +913,27 @@ body {
 print {
     #muse_css_mq {
         background-color: #FFFFFF;
+    }
+
+    #u22359, 
+    #u145232, 
+    #u145234, 
+    #buttonu453353, 
+    #buttonu453355, 
+    #buttonu453347, 
+    #buttonu453361, 
+    #buttonu453345, 
+    #buttonu453349, 
+    #buttonu453351, 
+    #buttonu453357, 
+    #buttonu453359, 
+    #buttonu453363 {
+        transform: translateX(-90px);
+    }
+
+    #warehause-a, 
+    #warehause-a-2 {
+        transform: translateX(-80px);
     }
 
     #bp_infinity.active {
