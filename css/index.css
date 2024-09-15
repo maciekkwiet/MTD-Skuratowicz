@@ -47,6 +47,24 @@ print {
         top: -1px;
     }
 
+#u436, 
+#buttonu2987, 
+#buttonu3003, 
+#buttonu2993, 
+#buttonu3009, 
+#buttonu3001, 
+#buttonu3017, 
+#buttonu2989, 
+#buttonu2991, 
+#buttonu2995, 
+#warehause-a, 
+#buttonu3005, 
+#buttonu3007, 
+#buttonu3011, 
+#warehause-a-2 {
+  transform: translateX(-80px);
+}
+
     #u436-bw {
         z-index: 230;
     }
@@ -247,7 +265,7 @@ print {
         z-index: 0;
         width: 0.01px;
         height: 48px;
-        margin-left: 264px;
+        margin-left: 334px;
     }
 
     #ppbuttonu2987 {
