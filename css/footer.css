@@ -2,3 +2,266 @@
     color: #F0F0F0;
     text-align: center;
 }
+
+@media (min-width: 1201px),
+print {
+    #footer-4 {
+        width: 151px;
+        min-height: 19px;
+        border-width: 0px;
+        background-color: transparent;
+        color: #F0F0F0;
+        text-align: center;
+        font-size: 16px;
+        line-height: 19px;
+        font-family: myriad-pro, sans-serif;
+        font-weight: 400;
+        position: relative;
+        margin-right: -10000px;
+        top: 2px;
+    }
+
+    #footer-a:hover #footer-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 19px;
+        width: 151px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #footer-a:hover #footer-4 p {
+        color: #F0F0F0;
+        visibility: inherit;
+        font-family: myriad-pro, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    #footer-a.MuseMenuActive #footer-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 19px;
+        width: 151px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #footer-div {
+        width: 152px;
+        border-width: 0px;
+        background-color: transparent;
+        position: relative;
+    }
+
+    #footer-a {
+        width: 151px;
+        min-height: 19px;
+        border-width: 0px;
+        background-color: transparent;
+        padding-bottom: 5px;
+        position: relative;
+        margin-right: -10000px;
+    }
+
+    #footer-a.MuseMenuActive #footer-4 p {
+        color: #F0F0F0;
+        visibility: inherit;
+        text-decoration: none;
+        font-weight: normal;
+    }
+}
+
+@media (min-width: 851px) and (max-width: 1200px) {
+    #footer-4 {
+        width: 171px;
+        min-height: 22px;
+        border-width: 0px;
+        background-color: transparent;
+        color: #F0F0F0;
+        text-align: center;
+        font-size: 18px;
+        line-height: 22px;
+        font-family: myriad-pro, sans-serif;
+        font-weight: 400;
+        position: relative;
+        margin-right: -10000px;
+        top: 1px;
+    }
+
+    #footer-a:hover #footer-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 22px;
+        width: 171px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #footer-a:hover #footer-4 p {
+        color: #F0F0F0;
+        visibility: inherit;
+        font-family: myriad-pro, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    #footer-a.MuseMenuActive #footer-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 22px;
+        width: 171px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #footer-div {
+        width: 172px;
+        border-width: 0px;
+        background-color: transparent;
+        position: relative;
+    }
+
+    #footer-a {
+        width: 171px;
+        min-height: 22px;
+        border-width: 0px;
+        background-color: transparent;
+        padding-bottom: 2px;
+        position: relative;
+        margin-right: -10000px;
+    }
+
+    #footer-a.MuseMenuActive #footer-4 p {
+        color: #F0F0F0;
+        visibility: inherit;
+        text-decoration: none;
+        font-weight: normal;
+    }
+}
+
+@media (min-width: 451px) and (max-width: 850px) {
+    #footer-4 {
+        width: 205px;
+        min-height: 22px;
+        border-width: 0px;
+        background-color: transparent;
+        color: #F0F0F0;
+        text-align: center;
+        font-size: 18px;
+        line-height: 22px;
+        font-family: myriad-pro, sans-serif;
+        font-weight: 400;
+        position: relative;
+        margin-right: -10000px;
+        top: 1px;
+    }
+
+    #footer-a:hover #footer-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 22px;
+        width: 205px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #footer-a.hover #footer-4 p {
+        color: #F0F0F0;
+        visibility: inherit;
+        font-family: myriad-pro, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    #footer-a.MuseMenuActive #footer-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 22px;
+        width: 205px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #footer-div {
+        width: 206px;
+        border-width: 0px;
+        background-color: transparent;
+        position: relative;
+    }
+
+    #footer-a {
+        width: 205px;
+        min-height: 22px;
+        border-width: 0px;
+        background-color: transparent;
+        padding-bottom: 2px;
+        position: relative;
+        margin-right: -10000px;
+    }
+
+    #footer-a.MuseMenuActive #footer-4 p {
+        color: #F0F0F0;
+        visibility: inherit;
+        text-decoration: none;
+        font-weight: normal;
+    }
+}
+
+@media (max-width: 450px) {
+    #footer-4 {
+        width: 152px;
+        min-height: 17px;
+        border-width: 0px;
+        background-color: transparent;
+        color: #F0F0F0;
+        text-align: center;
+        font-family: myriad-pro, sans-serif;
+        font-weight: 400;
+        position: relative;
+        margin-right: -10000px;
+        top: 3px;
+    }
+
+    #footer-a:hover #footer-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 17px;
+        width: 152px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #footer-a:hover #footer-4 p {
+        color: #F0F0F0;
+        visibility: inherit;
+        font-family: myriad-pro, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    #footer-a.MuseMenuActive #footer-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 17px;
+        width: 152px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #footer-div {
+        width: 152px;
+        border-width: 0px;
+        background-color: transparent;
+        position: relative;
+    }
+
+    #footer-a {
+        width: 152px;
+        min-height: 17px;
+        border-width: 0px;
+        background-color: transparent;
+        padding-bottom: 7px;
+        position: relative;
+        margin-right: -10000px;
+    }
+
+    #footer-a.MuseMenuActive #footer-4 p {
+        color: #F0F0F0;
+        visibility: inherit;
+        text-decoration: none;
+        font-weight: normal;
+    }
+}
