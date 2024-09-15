@@ -1,3 +1,6 @@
+@import url('./footer.css');
+@import url('./warehause-header.css');
+
 .version.o_nas_pl {
     color: #0000FA;
     background-color: #E3525A;
@@ -15,6 +18,26 @@
 print {
     #bp_infinity.active {
         display: block;
+    }
+
+    #u22359, 
+    #u133609, 
+    #u133611, 
+    #buttonu440950, 
+    #buttonu440962, 
+    #buttonu440956, 
+    #buttonu440968, 
+    #buttonu440960, 
+    #buttonu440972, 
+    #buttonu440952, 
+    #buttonu440954, 
+    #warehause-a, 
+    #buttonu440958, 
+    #buttonu440964, 
+    #buttonu440966, 
+    #buttonu440970, 
+    #warehause-a-2 {
+      transform: translateX(-80px);
     }
 
     #page {
@@ -246,7 +269,7 @@ print {
         z-index: 0;
         width: 0.01px;
         height: 48px;
-        margin-left: 320px;
+        margin-left: 410px;
     }
 
     #ppbuttonu440950 {
