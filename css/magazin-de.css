@@ -1,3 +1,6 @@
+@import url('./footer-de.css');
+@import url('./warehause-header-de.css');
+
 .version.uber_uns_de {
     color: #000000;
     background-color: #A7BBA0;
@@ -914,6 +917,24 @@ body {
 print {
     #muse_css_mq {
         background-color: #FFFFFF;
+    }
+
+    #u22359, 
+    #u186019, 
+    #u186021, 
+    #buttonu687589, 
+    #buttonu687595, 
+    #buttonu687593, 
+    #buttonu687601, 
+    #warehause-a, 
+    #warehause-a-2, 
+    #buttonu687583, 
+    #buttonu687585, 
+    #buttonu687587, 
+    #buttonu687591, 
+    #buttonu687597, 
+    #buttonu687599 {
+        transform: translateX(-80px);
     }
 
     #bp_infinity.active {
