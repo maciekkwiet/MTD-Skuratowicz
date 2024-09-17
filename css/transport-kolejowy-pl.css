@@ -1,3 +1,6 @@
+@import url('./footer-pl.css');
+@import url('./warehause-header-pl.css');
+
 .version.transport_kolejowy_pl {
     color: #000011;
     background-color: #310FA9;

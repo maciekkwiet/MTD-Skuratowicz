@@ -1,3 +1,6 @@
+@import url('./footer-pl.css');
+@import url('./warehause-header-pl.css');
+
 .version.transport_lotniczy_pl {
     color: #0000F8;
     background-color: #548229;

@@ -1,3 +1,6 @@
+@import url('./footer-pl.css');
+@import url('./warehause-header-pl.css');
+
 .version.transport_drogowy_pl {
     color: #00001A;
     background-color: #D0535E;
