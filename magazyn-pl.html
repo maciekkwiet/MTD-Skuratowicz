@@ -219,8 +219,122 @@
                </div>
             </div>
             <div class="clearfix colelem shared_content" id="u22543-24" data-content-guid="u22543-24_content">
+               <div class="slider-container slider-dimensions">
+                  <div class="slider">
+                     <div data-img-url="images/v2_Niemodlin_1.jpg" class="slider-dimensions"></div>
+                     <div data-img-url="images/v2_Niemodlin_2.jpg" class="slider-dimensions"></div>
+                     <div data-img-url="images/v2_Niemodlin_3.jpg" class="slider-dimensions"></div>
+                  </div>
+                  <div class="nav-container slider-dimensions" tabindex="0">
+                     <button data-index-change="-1">&lt;</button>
+                     <div class="index-container">
+                        <button></button>
+                        <button></button>
+                        <button></button>
+                     </div>
+                     <button data-index-change="1">&gt;</button>
+                  </div>
+               </div>
+               <script>
+
+                  const imgs = document.querySelectorAll('[data-img-url]');
+
+                  imgs.forEach((div) => {
+                     div.style.backgroundImage = `url(./${div.getAttribute('data-img-url')})`;
+                  });
+
+                  const slider = document.querySelector('.slider');
+                  const indexButtons = document.querySelectorAll('.index-container > button');
+                  const arrowButtons = document.querySelectorAll('[data-index-change]');
+                  let currIndex = 0;
+
+                  function slide(nextIndex) {
+                     if (nextIndex < 0) nextIndex = imgs.length - 1;
+                     if (nextIndex >= imgs.length) nextIndex = 0;
+                     indexButtons[currIndex].style.backgroundColor = '';
+                     indexButtons[nextIndex].style.backgroundColor = 'white';
+                     slider.style.transform = `translateX(-${(nextIndex / imgs.length) * 100}%)`
+                     currIndex = nextIndex;
+                  }
+
+                  indexButtons[0].style.backgroundColor = 'white';
+
+                  indexButtons.forEach((button, index) => {
+                     button.addEventListener('click', () => {
+                        slide(index);
+                     });
+                  });
+
+                  arrowButtons.forEach((button) => {
+                     button.addEventListener('click', () => {
+                        const indexChange = +button.getAttribute('data-index-change');
+                        slide(currIndex + indexChange);
+                     });
+                  });
+
+                  const navContainer = document.querySelector('.nav-container');
+                  let id;
+                  let isSliding = false;
+                  function startAutoSlide() {
+                     if (!isSliding) {
+                        id = setInterval(() => slide(currIndex + 1), 5000);
+                        isSliding = true;
+                     }
+                  };
+                  function stopAutoSlide() {
+                     clearInterval(id);
+                     isSliding = false;
+                  };
+                  startAutoSlide();
+
+                  navContainer.addEventListener('mouseover', () => stopAutoSlide());
+                  navContainer.addEventListener('mouseout', () => startAutoSlide());
+
+                  document.addEventListener('touchstart', (e) => {
+                     if (e.target !== navContainer && !navContainer.contains(e.target))
+                        startAutoSlide();
+                  });
+
+               </script>
                <!-- content -->
-               <p>W przygotowaniu...</p>
+               <h1>Hala Magazynowo-Wytwórcza - 6 000 m² Nowoczesnej Przestrzeni Produkcyjnej i Składowej</h1>
+               <p>Oferujemy do wynajęcia nowo wybudowaną halę magazynowo-wytwórczą o łącznej powierzchni 6 000 m²,
+                  idealną zarówno do prowadzenia działalności produkcyjnej, jak i magazynowej. Nasza hala zapewnia
+                  najwyższe standardy funkcjonalności, bezpieczeństwa oraz optymalizacji procesów logistycznych.</p>
+
+               <h2>Kluczowe cechy hali:</h2>
+               <ul>
+                  <li>Powierzchnia całkowita: 6 000 m², podzielona na dwie niezależne nawy po 3 000 m² każda.</li>
+                  <li>Wymiary każdej nawy: 100 m długości i 30 m szerokości, co umożliwia elastyczne zagospodarowanie
+                     przestrzeni.</li>
+                  <li>Suwnice: Każda z naw wyposażona jest w suwnicę o udźwigu 30 ton, z maksymalnym podniesieniem do
+                     wysokości 10 metrów. Suwnice umożliwiają sprawny rozładunek i załadunek towarów o dużych gabarytach
+                     i masie.</li>
+                  <li>Nowo wybudowana hala: Obiekt nigdy wcześniej nie był użytkowany, co oznacza brak śladów
+                     eksploatacji oraz całkowicie gładką wylewkę, idealną do prowadzenia wszelkich operacji
+                     logistycznych.</li>
+                  <li>Systemy podnoszące: Możliwość obsługi ciężkich ładunków. Hala wyposażona jest w zaawansowany
+                     system hydrauliczny, który umożliwia rozładunek i załadunek towarów powyżej 30 ton.</li>
+                  <li>Funkcjonalność i komfort: Hala posiada odpowiednią infrastrukturę do elastycznego dostosowania do
+                     indywidualnych potrzeb najemcy.</li>
+               </ul>
+
+               <h2>Zastosowania hali magazynowo-wytwórczej:</h2>
+               <ul>
+                  <li>Magazynowanie towarów wielkogabarytowych</li>
+                  <li>Prowadzenie działalności produkcyjnej wymagającej ciężkich operacji transportowych</li>
+                  <li>Obsługa dużych ładunków z wykorzystaniem suwnic i systemów hydraulicznych</li>
+               </ul>
+
+               <p>Nasza hala magazynowo-wytwórcza to doskonała propozycja dla firm poszukujących nowoczesnej,
+                  przestronnej i funkcjonalnej przestrzeni, która spełni najwyższe wymagania związane z logistyką,
+                  produkcją i magazynowaniem.</p>
+
+               <iframe class="actAsDiv" style="width:100%;height:100%;" frameborder="0" scrolling="no" marginheight="0"
+                  marginwidth="0"
+                  src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;q=mtd%20skuratowicz%20niemodlin%20opolska%2056&amp;aq=0&amp;ie=UTF8&amp;t=m&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe>
+
+
             </div>
             <div class="clearfix colelem shared_content" id="u22548-3" data-content-guid="u22548-3_content">
                <!-- content -->

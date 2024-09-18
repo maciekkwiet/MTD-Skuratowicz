@@ -204,8 +204,119 @@
           </div>
         </div>
         <div class="clearfix colelem shared_content" id="u32451-10" data-content-guid="u32451-10_content">
-          <!-- content -->
-          <p id="u32451-2">В процесе…</p>
+          <div class="slider-container slider-dimensions">
+            <div class="slider">
+              <div data-img-url="images/v2_Niemodlin_1.jpg" class="slider-dimensions"></div>
+              <div data-img-url="images/v2_Niemodlin_2.jpg" class="slider-dimensions"></div>
+              <div data-img-url="images/v2_Niemodlin_3.jpg" class="slider-dimensions"></div>
+            </div>
+            <div class="nav-container slider-dimensions" tabindex="0">
+              <button data-index-change="-1">&lt;</button>
+              <div class="index-container">
+                <button></button>
+                <button></button>
+                <button></button>
+              </div>
+              <button data-index-change="1">&gt;</button>
+            </div>
+          </div>
+          <script>
+
+            const imgs = document.querySelectorAll('[data-img-url]');
+
+            imgs.forEach((div) => {
+              div.style.backgroundImage = `url(./${div.getAttribute('data-img-url')})`;
+            });
+
+            const slider = document.querySelector('.slider');
+            const indexButtons = document.querySelectorAll('.index-container > button');
+            const arrowButtons = document.querySelectorAll('[data-index-change]');
+            let currIndex = 0;
+
+            function slide(nextIndex) {
+              if (nextIndex < 0) nextIndex = imgs.length - 1;
+              if (nextIndex >= imgs.length) nextIndex = 0;
+              indexButtons[currIndex].style.backgroundColor = '';
+              indexButtons[nextIndex].style.backgroundColor = 'white';
+              slider.style.transform = `translateX(-${(nextIndex / imgs.length) * 100}%)`
+              currIndex = nextIndex;
+            }
+
+            indexButtons[0].style.backgroundColor = 'white';
+
+            indexButtons.forEach((button, index) => {
+              button.addEventListener('click', () => {
+                slide(index);
+              });
+            });
+
+            arrowButtons.forEach((button) => {
+              button.addEventListener('click', () => {
+                const indexChange = +button.getAttribute('data-index-change');
+                slide(currIndex + indexChange);
+              });
+            });
+
+            const navContainer = document.querySelector('.nav-container');
+            let id;
+            let isSliding = false;
+            function startAutoSlide() {
+              if (!isSliding) {
+                id = setInterval(() => slide(currIndex + 1), 5000);
+                isSliding = true;
+              }
+            };
+            function stopAutoSlide() {
+              clearInterval(id);
+              isSliding = false;
+            };
+            startAutoSlide();
+
+            navContainer.addEventListener('mouseover', () => stopAutoSlide());
+            navContainer.addEventListener('mouseout', () => startAutoSlide());
+
+            document.addEventListener('touchstart', (e) => {
+              if (e.target !== navContainer && !navContainer.contains(e.target))
+                startAutoSlide();
+            });
+
+          </script>
+          <h1>Складско-Производственный Цех - 6 000 м² Современной Производственной и Складской Площади</h1>
+          <p>Мы предлагаем в аренду недавно построенный складско-производственный цех общей площадью 6 000 м², идеально
+            подходящий как для производственной деятельности, так и для хранения. Наш цех обеспечивает высокие стандарты
+            функциональности, безопасности и оптимизации логистических процессов.</p>
+
+          <h2>Ключевые характеристики цеха:</h2>
+          <ul>
+            <li>Общая площадь: 6 000 м², разделена на два независимых пролета по 3 000 м² каждый.</li>
+            <li>Размеры каждого пролета: 100 м в длину и 30 м в ширину, что позволяет гибко организовать пространство.
+            </li>
+            <li>Краны: Каждый пролет оснащен краном грузоподъемностью 30 тонн, с максимальной высотой подъема до 10
+              метров. Краны позволяют эффективно загружать и разгружать крупногабаритные и тяжелые грузы.</li>
+            <li>Новый цех: Объект никогда ранее не использовался, что означает отсутствие следов эксплуатации и
+              полностью гладкий пол, идеальный для выполнения любых логистических операций.</li>
+            <li>Подъемные системы: Возможность обработки тяжелых грузов. Цех оснащен современной гидравлической
+              системой, которая позволяет загружать и разгружать грузы весом свыше 30 тонн.</li>
+            <li>Функциональность и комфорт: Цех имеет необходимую инфраструктуру для гибкой адаптации к индивидуальным
+              потребностям арендатора.</li>
+          </ul>
+
+          <h2>Применение складско-производственного цеха:</h2>
+          <ul>
+            <li>Хранение крупногабаритных товаров</li>
+            <li>Ведение производственной деятельности, требующей тяжелых транспортных операций</li>
+            <li>Обработка крупных грузов с использованием кранов и гидравлических систем</li>
+          </ul>
+
+          <p>Наш складско-производственный цех – это отличное предложение для компаний, которые ищут современное,
+            просторное и функциональное пространство, отвечающее самым высоким требованиям в области логистики,
+            производства и хранения.</p>
+
+          <iframe class="actAsDiv" style="width:100%;height:100%;" frameborder="0" scrolling="no" marginheight="0"
+            marginwidth="0"
+            src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;q=mtd%20skuratowicz%20niemodlin%20opolska%2056&amp;aq=0&amp;ie=UTF8&amp;t=m&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe>
+
+
         </div>
         <div class="clearfix colelem shared_content" id="u32456-3" data-content-guid="u32456-3_content"><!-- content -->
           <p>&nbsp;</p>
