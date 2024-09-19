@@ -1145,7 +1145,6 @@ print {
     #ppppbuttonu687589 {
         z-index: 0;
         width: 0.01px;
-        height: 3169.5215830714283px;
         padding-bottom: 0px;
         margin-right: -10000px;
         margin-top: 24px;
@@ -6609,7 +6608,7 @@ print {
   .slider-container {
     position: relative;
     overflow: hidden;
-    background-color: lightgray;
+    margin-left: 10%;
   }
 
 
@@ -6680,3 +6679,30 @@ print {
     }
   }
   
+  @media (max-width: 1000px) {
+    .slider-container {
+        position: relative;
+        overflow: hidden;
+        margin-left: 0px;
+      }
+
+      .slider-dimensions {
+        width: min(80vw, 720px);
+        aspect-ratio: 3 / 2;
+      }
+  }
+
+  li {
+    list-style: circle;
+    margin-left: 20px;
+  }
+
+  h2 {
+    font-size: larger;
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    font-size: larger;
+    margin-top: 20px;
+  }
