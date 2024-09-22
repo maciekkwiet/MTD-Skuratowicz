@@ -52,7 +52,7 @@ print {
 
     #warehause-header-2 #warehause-a-2 {
         width: 92px;
-        height: 48px;
+        height: 37px;
         border-style: solid;
         border-color: #C80000;
         position: relative;
@@ -61,6 +61,7 @@ print {
         left: 0px;
         margin-left: 0px;
         min-height: 0px;
+        top: 4px;
     }
 
     #warehause-header-2:hover #warehause-4-2 {
@@ -94,13 +95,13 @@ print {
     #warehause-a {
         z-index: 260;
         width: 92px;
-        height: 47px;
+        height: 37px;
         border-style: solid;
         border-color: #A41111;
         background-color: transparent;
         position: fixed;
-        top: 17px;
-        left: 50%;
+        top: 21px;
+        left: 49.3%;
         margin-left: 350px;
         border-width: 0px 0px 2px;
     }

@@ -59,9 +59,10 @@ print {
         position: relative;
         margin-right: -10000px;
         margin-top: 0px;
-        left: 0px;
+        left: -6px;
         margin-left: 0px;
         min-height: 0px;
+        top: 10px;
     }
 
     #warehause-header-2:hover #warehause-4-2 {
@@ -95,13 +96,13 @@ print {
 
     #warehause-a {
         z-index: 260;
-        width: 92px;
-        height: 47px;
+        width: 112px;
+        height: 37px;
         border-style: solid;
         border-color: #A41111;
         background-color: transparent;
         position: fixed;
-        top: 17px;
+        top: 26px;
         left: 50%;
         margin-left: 350px;
         border-width: 0px 0px 2px;

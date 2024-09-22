@@ -67,6 +67,7 @@ print {
         height: 74px;
         position: fixed;
         top: -1px;
+        width: 150%;
     }
 
     #u22359-bw {
@@ -306,12 +307,25 @@ print {
         width: 93px;
         height: 47px;
         border-style: solid;
-        border-color: #C80000;
         position: fixed;
         top: 17px;
         left: 50%;
         margin-left: -121px;
         min-height: 0px;
+    }
+
+    #warehause-a {
+        z-index: 260;
+        width: 92px;
+        height: 47px;
+        border-style: solid;
+        border-color: #C80000;
+        background-color: transparent;
+        position: fixed;
+        top: 17px;
+        left: 50%;
+        margin-left: 350px;
+        border-width: 0px 0px 2px;
     }
 
     #warehause-header-2 #warehause-a-2 {
@@ -2442,6 +2456,17 @@ print {
         min-height: 17px;
         width: 100%;
         margin: 0px -10000px -4px 0%;
+    }
+
+    #warehause-submenu {
+        min-height: 17px;
+        border-style: solid;
+        border-color: #A41111;
+        background-color: transparent;
+        padding-bottom: 9px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
         border-width: 0px 0px 3px;
     }
 
@@ -4460,6 +4485,17 @@ print {
         min-height: 17px;
         width: 100%;
         margin: 0px -10000px -4px 0%;
+    }
+
+    #warehause-submenu {
+        min-height: 17px;
+        border-style: solid;
+        border-color: #A41111;
+        background-color: transparent;
+        padding-bottom: 9px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
         border-width: 0px 0px 3px;
     }
 
@@ -6530,6 +6566,17 @@ print {
         min-height: 17px;
         width: 100%;
         margin: 0px -10000px -4px 0%;
+    }
+
+    #warehause-submenu {
+        min-height: 17px;
+        border-style: solid;
+        border-color: #A41111;
+        background-color: transparent;
+        padding-bottom: 22px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
         border-width: 0px 0px 3px;
     }
 
