@@ -312,6 +312,19 @@ print {
         left: 50%;
         margin-left: -121px;
         min-height: 0px;
+    }
+
+    #warehause-header-2 #warehause-a-2 {
+        width: 92px;
+        height: 48px;
+        border-style: solid;
+        border-color: #C80000;
+        position: relative;
+        margin-right: -10000px;
+        margin-top: 0px;
+        left: 0px;
+        margin-left: 0px;
+        min-height: 0px;
         border-width: 0px 0px 3px;
     }
 
@@ -374,7 +387,7 @@ print {
         left: 0px;
         margin-left: 0px;
         min-height: 0px;
-        border-width: 0px 0px 3px;
+        border-width: 0px 0px 2px;
     }
 
     #u440963-4 {
@@ -982,6 +995,7 @@ print {
 
     #pbuttonu440968:hover #buttonu440968,
     #pbuttonu440972:hover #buttonu440972,
+    #pbuttonu440962:hover #buttonu440962,
     #pbuttonu440964:hover #buttonu440964,
     #pbuttonu440966:hover #buttonu440966,
     #pbuttonu440970:hover #buttonu440970 {
@@ -8383,7 +8397,7 @@ print {
     #u742659-15-bw {
         z-index: 142;
         min-height: 125px;
-        margin-top: 517px;
+        margin-top: 537px;
     }
 
     .html {

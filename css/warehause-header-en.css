@@ -52,8 +52,8 @@ print {
     }
 
     #warehause-header-2 #warehause-a-2 {
-        width: 92px;
-        height: 48px;
+        width: 112px;
+        height: 37px;
         border-style: solid;
         border-color: #C80000;
         position: relative;
@@ -62,7 +62,6 @@ print {
         left: 0px;
         margin-left: 0px;
         min-height: 0px;
-        border-width: 0px 0px 3px;
     }
 
     #warehause-header-2:hover #warehause-4-2 {
@@ -71,7 +70,7 @@ print {
         position: relative;
         margin-right: -10000px;
         min-height: 23px;
-        width: 92px;
+        width: 112px;
     }
 
     #warehause-header.ButtonSelected #warehause-4,
@@ -86,6 +85,7 @@ print {
     #warehause-header-2 #warehause-4-2 {
         position: relative;
         margin-right: -10000px;
+        width: 100%;
     }
 
     #warehause-a,  
