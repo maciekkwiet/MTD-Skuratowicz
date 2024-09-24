@@ -1555,6 +1555,24 @@ print {
         background-color: #FFFFFF;
     }
 
+#u57624,
+#u223973,
+#u223975,
+#buttonu511113,
+#warehause-a,
+#warehause-a-2,
+#buttonu511115,
+#buttonu511107,
+#buttonu511121,
+#buttonu511105,
+#buttonu511109,
+#buttonu511111,
+#buttonu511117,
+#buttonu511119,
+#buttonu511123 {
+    transform: translateX(-80px);
+}
+
     #bp_infinity.active {
         display: block;
     }
@@ -2672,6 +2690,20 @@ print {
     #u60172 {
         width: 251px;
         padding-bottom: 12px;
+    }
+
+    #warehause-a {
+        z-index: 350;
+        width: 92px;
+        height: 37px;
+        border-style: solid;
+        border-color: #A41111;
+        background-color: transparent;
+        position: fixed;
+        top: 21px;
+        left: 49.3%;
+        margin-left: 350px;
+        border-width: 0px 0px 2px;
     }
 
     #u726165-4,
