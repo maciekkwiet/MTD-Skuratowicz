@@ -20,6 +20,40 @@ print {
         display: block;
     }
 
+#u73717,
+#u144306,
+#u144308,
+#buttonu449008,
+#buttonu449020,
+#buttonu449014,
+#buttonu449026,
+#warehause-a,
+#warehause-a-2,
+#buttonu449018,
+#buttonu449030,
+#buttonu449010,
+#buttonu449012,
+#buttonu449016,
+#buttonu449022,
+#buttonu449024,
+#buttonu449028 {
+    transform: translateX(-80px);
+  }
+
+  #warehause-a {
+    z-index: 560;
+    width: 92px;
+    height: 47px;
+    border-style: solid;
+    border-color: #A41111;
+    background-color: transparent;
+    position: fixed;
+    top: 17px;
+    left: 50%;
+    margin-left: 350px;
+    border-width: 0px 0px 2px;
+}
+
     #page {
         z-index: 1;
         width: 1200px;
