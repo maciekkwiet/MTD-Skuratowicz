@@ -20,6 +20,19 @@ print {
         display: block;
     }
 
+    #warehause-header-2 #warehause-a-2 {
+        width: 92px;
+        height: 48px;
+        border-style: solid;
+        border-color: #C80000;
+        position: relative;
+        margin-right: -10000px;
+        margin-top: 0px;
+        left: 0px;
+        margin-left: 0px;
+        min-height: 0px;
+    }
+
     #page {
         z-index: 1;
         width: 1200px;

@@ -20,6 +20,39 @@ print {
         display: block;
     }
 
+#u50056,
+#u136129,
+#u136131,
+#buttonu441607,
+#buttonu441619,
+#buttonu441613,
+#buttonu441625,
+#warehause-a,
+#warehause-a-2,
+#buttonu441617,
+#buttonu441629,
+#buttonu441609,
+#buttonu441611,
+#buttonu441615,
+#buttonu441621,
+#buttonu441623,
+#buttonu441627,
+#u50524,
+#u51431-4,
+#u50530,
+#u51433-4,
+#u50536,
+#u51435-4,
+#u51437-4,
+#u50544,
+#u51436-4,
+#u50528,
+#u51432-4,
+#u50533,
+#u51434-4 {
+    transform: translateX(-80px);
+  }
+
     #page {
         z-index: 1;
         width: 1200px;

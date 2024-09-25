@@ -19,7 +19,26 @@ print {
     #bp_infinity.active {
         display: block;
     }
-
+    #u40961,
+    #u134449,
+    #u134451,
+    #buttonu441169,
+    #buttonu441181,
+    #buttonu441175,
+    #buttonu441187,
+    #warehause-a,
+    #warehause-a-2,
+    #buttonu441179,
+    #buttonu441191,
+    #buttonu441171,
+    #buttonu441173,
+    #buttonu441177,
+    #buttonu441183,
+    #buttonu441185,
+    #buttonu441189 {
+        transform: translateX(-80px);
+      }
+    
     #page {
         z-index: 1;
         width: 1200px;
