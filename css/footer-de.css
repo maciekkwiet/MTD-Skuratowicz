@@ -215,6 +215,7 @@ print {
         position: relative;
         margin-right: -10000px;
         top: 3px;
+        font-size: 18px;
     }
 
     #footer-a:hover #footer-4 {

@@ -946,6 +946,33 @@ print {
         background-color: #FFFFFF;
     }
 
+#u52814,
+#u189904,
+#u189906,
+#buttonu688687,
+#buttonu688693,
+#buttonu688691,
+#buttonu688699,
+#warehause-a,
+#warehause-a-2,
+#buttonu688681,
+#buttonu688683,
+#buttonu688685,
+#buttonu688689,
+#buttonu688695,
+#buttonu688697,
+#u54915,
+#u55684-4,
+#u54918,
+#u55683-4,
+#u54921,
+#u55686-4,
+#u54913,
+#u55682-4 {
+    transform: translateX(-80px);
+}
+
+
     #bp_infinity.active {
         display: block;
     }
@@ -5247,6 +5274,21 @@ print {
 @media (max-width: 450px) {
     #muse_css_mq {
         background-color: #0001c2;
+    }
+
+    #footer-4 {
+        width: 152px;
+        min-height: 17px;
+        border-width: 0px;
+        background-color: transparent;
+        color: #F0F0F0;
+        text-align: center;
+        font-family: myriad-pro, sans-serif;
+        font-weight: 400;
+        position: relative;
+        margin-right: -10000px;
+        top: 3px;
+        font-size: small;
     }
 
     #bp_450.active {

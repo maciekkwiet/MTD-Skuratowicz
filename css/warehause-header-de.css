@@ -92,7 +92,7 @@ print {
     }
 
     #warehause-a {
-        z-index: 260;
+        z-index: 660;
         width: 92px;
         height: 37px;
         border-style: solid;
@@ -106,7 +106,7 @@ print {
     }
 
     #warehause-4 {
-        z-index: 261;
+        z-index: 561;
         width: 92px;
         min-height: 23px;
         background-color: transparent;
