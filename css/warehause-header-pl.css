@@ -1,7 +1,7 @@
 @media (min-width: 1201px),
 print {
     #warehause-header {
-        z-index: 260;
+        z-index: 960;
         width: 0.01px;
         height: 0px;
         padding-bottom: 50px;
@@ -92,7 +92,7 @@ print {
     }
 
     #warehause-a {
-        z-index: 260;
+        z-index: 960;
         width: 92px;
         height: 47px;
         border-style: solid;
@@ -106,7 +106,7 @@ print {
     }
 
     #warehause-4 {
-        z-index: 261;
+        z-index: 961;
         width: 92px;
         min-height: 23px;
         background-color: transparent;
@@ -126,7 +126,7 @@ print {
     }
 
     #warehause-a-2 {
-        z-index: 302;
+        z-index: 902;
         width: 92px;
         height: 48px;
         border-style: solid;
@@ -141,7 +141,7 @@ print {
     }
 
     #warehause-4-2 {
-        z-index: 303;
+        z-index: 903;
         width: 92px;
         min-height: 23px;
         background-color: transparent;
