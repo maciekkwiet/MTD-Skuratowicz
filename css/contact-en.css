@@ -20,6 +20,28 @@ print {
         display: block;
     }
 
+#u73717,
+#u153779,
+#u153781,
+#buttonu713432,
+#buttonu713434,
+#buttonu713426,
+#buttonu713440,
+#buttonu713424,
+#buttonu713428,
+#buttonu713430,
+#buttonu713436,
+#buttonu713438,
+#buttonu713442 {
+    transform: translateX(-90px);
+}
+
+#warehause-a, 
+#warehause-a-2 {
+    transform: translateX(-80px);
+}
+
+
     #page {
         z-index: 1;
         width: 1200px;

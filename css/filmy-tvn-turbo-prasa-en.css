@@ -923,6 +923,28 @@ print {
         background-color: #FFFFFF;
     }
 
+#u426319,
+#u415429,
+#u415437,
+#buttonu712760,
+#buttonu712762,
+#buttonu712754,
+#buttonu712768,
+#buttonu712752,
+#buttonu712756,
+#buttonu712758,
+#buttonu712764,
+#buttonu712766,
+#buttonu712770 {
+    transform: translateX(-90px);
+}
+
+#warehause-a, 
+#warehause-a-2 {
+    transform: translateX(-80px);
+}
+
+
     #bp_infinity.active {
         display: block;
     }

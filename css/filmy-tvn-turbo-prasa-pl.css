@@ -20,6 +20,23 @@ print {
         display: block;
     }
 
+#u426319,
+#u416590,
+#u416586,
+#buttonu514851,
+#buttonu514853,
+#buttonu514845,
+#buttonu514859,
+#buttonu514843,
+#buttonu514847,
+#buttonu514849,
+#buttonu514855,
+#buttonu514857,
+#buttonu514861 {
+    transform: translateX(-80px);
+  }
+
+
     #page {
         z-index: 1;
         width: 1200px;
