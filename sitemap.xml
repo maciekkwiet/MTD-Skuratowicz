@@ -115,6 +115,39 @@
     </image:image>
   </url>
   <url>
+    <loc>http://www.mtdskuratowicz.com.pl/magazyn-pl.html</loc>
+    <lastmod>2024-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/mtd_logo_.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/esta_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/facebook_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/yt_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/tel_icon.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/deutche.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/dekra_cert.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/min_trans_lic.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/logo_ponadnormatywni.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://www.mtdskuratowicz.com.pl/home-en.html</loc>
     <lastmod>2023-02-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -171,6 +204,39 @@
   <url>
     <loc>http://www.mtdskuratowicz.com.pl/about-us-en.html</loc>
     <lastmod>2023-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/mtd_logo_.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/esta_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/facebook_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/yt_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/tel_icon.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/deutche.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/dekra_cert.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/min_trans_lic.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/logo_ponadnormatywni.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.mtdskuratowicz.com.pl/warehause-en.html</loc>
+    <lastmod>2024-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -343,8 +409,74 @@
     </image:image>
   </url>
   <url>
+    <loc>http://www.mtdskuratowicz.com.pl/magazin-de.html</loc>
+    <lastmod>2024-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/mtd_logo_.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/esta_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/facebook_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/yt_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/tel_icon.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/deutche.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/dekra_cert.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/min_trans_lic.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/logo_ponadnormatywni.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://www.mtdskuratowicz.com.pl/about-us-ru.html</loc>
     <lastmod>2023-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/mtd_logo_.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/esta_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/facebook_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/yt_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/tel_icon.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/deutche.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/dekra_cert.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/min_trans_lic.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mtdskuratowicz.com.pl/images/logo_ponadnormatywni.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.mtdskuratowicz.com.pl/warehause-ru.html</loc>
+    <lastmod>2024-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
